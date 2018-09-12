@@ -18,6 +18,10 @@
   ```
   <table border="1">
     <tr>
+      <th>第一欄</td>
+      <th>第二攔</td>
+     </tr>
+    <tr>
       <td>1-1</td>
       <td>1-2</td>
      </tr>
