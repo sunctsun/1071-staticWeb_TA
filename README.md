@@ -1,5 +1,6 @@
 # 1071-staticWeb_TA
-
+## 學習網頁的好網站
+1. [w3cSchools]
 ## WEEK01
 ### 基本操作cmd指令
 * **cd** 切換目錄指令
@@ -9,6 +10,8 @@
 ### git基本指令
 * 參考連結 [Git 與 Github 版本控制基本指令與操作入門教學]
 
+
+ 
 ### CH5 表格
 #### 基本元素
 * `<table> ` : 用來標記表格
@@ -43,7 +46,7 @@
   | 3-1 | 3-2 |
  
 #### 表格標題
-* `<caption> ` : 用來指定表格標題
+* `<caption> ` : 用來指定表格**標題**
 
 #### 合併儲存格
 * `rowspan="n"`
@@ -51,12 +54,14 @@
 
 
 #### 表格的表頭、主體、結尾
-* `<thead> ` : 
-* `<tbody> ` : 
-* `<tfoot> ` : 
+* `<thead> ` : 用來標示表格的表頭
+* `<tbody> ` : 用來標示表格的主體
+* `<tfoot> ` : 用來標示表格的結尾
 
 
 
 
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
+[w3cSchools]: https://www.w3schools.com/html/default.asp
+
