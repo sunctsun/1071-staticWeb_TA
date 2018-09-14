@@ -1,6 +1,7 @@
 # 1071-staticWeb_TA
 ## 學習網頁的好網站
 1. [w3cSchools]
+2. [codeopen]
 ## WEEK01
 ### 基本操作cmd指令
 * **cd** 切換目錄指令
@@ -64,4 +65,5 @@
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 [w3cSchools]: https://www.w3schools.com/html/default.asp
+[codeopen]: https://codepen.io/
 
