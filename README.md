@@ -1,7 +1,7 @@
 # 1071-staticWeb_TA
 ## 學習網頁的好網站
 1. [w3cSchools]
-2. [codeopen]
+2. [codepen]
 ## WEEK01
 ### 基本操作cmd指令
 * **cd** 切換目錄指令
@@ -11,8 +11,6 @@
 ### git基本指令
 * 參考連結 [Git 與 Github 版本控制基本指令與操作入門教學]
 
-
- 
 ### CH5 表格
 #### 基本元素
 * `<table> ` : 用來標記表格
@@ -49,6 +47,7 @@
 #### 表格標題
 * `<caption> ` : 用來指定表格**標題**
 
+
 #### 合併儲存格
 * `rowspan="n"`
 * `colspan="n"`
@@ -60,10 +59,15 @@
 * `<tfoot> ` : 用來標示表格的結尾
 
 
+#### 直欄式表格
+* `<colgroup>`
+* `<col>`
+
+
 
 
 
 [Git 與 Github 版本控制基本指令與操作入門教學]: https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
 [w3cSchools]: https://www.w3schools.com/html/default.asp
-[codeopen]: https://codepen.io/
+[codepen]: https://codepen.io/
 
